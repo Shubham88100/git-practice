@@ -1,1 +1,3 @@
 Some other file to test
+
+Hello from feature1
