@@ -1,3 +1,5 @@
 Some other file to test
 
 Hello from feature1
+
+Hi from feature3
